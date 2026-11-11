@@ -4,21 +4,21 @@ Software developer building for **web, desktop and mobile**: websites, computer 
 from the first screen to the AI integration.
 I care about clean architecture, testable logic and the details that make software feel good to use.
 
-🌐 **Portfolio:** [caetano14.github.io](https://caetano14.github.io) · 📫 **Email:** [miguelscaetano.dev@gmail.com](mailto:miguelscaetano.dev@gmail.com)<!--💼 [LinkedIn]()-->
+🌐 **Portfolio:** [miguelscaetano.github.io](https://miguelscaetano.github.io) · 📫 **Email:** [miguelscaetano.dev@gmail.com](mailto:miguelscaetano.dev@gmail.com)
 
 ---
 
 ## 🧭 What I build
 
-- 🌐 **Web**: websites and web apps, like my [portfolio](https://caetano14.github.io), handmade, bilingual, no frameworks
+- 🌐 **Web**: websites and web apps, like my [portfolio](https://miguelscaetano.github.io), handmade, bilingual, no frameworks
 - 🖥️ **Desktop**: apps for Windows and macOS
-- 📱 **Mobile**: Android and iOS apps with React Native and Expo, like [ParkLog](https://github.com/caetano14/parklog)
+- 📱 **Mobile**: Android and iOS apps with React Native and Expo, like [ParkLog](https://github.com/miguelscaetano/parklog)
 
 ---
 
-## 🚗 Featured: [ParkLog](https://github.com/caetano14/parklog)
+## 🚗 Featured: [ParkLog](https://github.com/miguelscaetano/parklog)
 
-[![ParkLog](https://caetano14.github.io/assets/og-parklog.jpg)](https://caetano14.github.io/parklog/)
+[![ParkLog](https://miguelscaetano.github.io/assets/og-parklog.jpg)](https://miguelscaetano.github.io/parklog/)
 
 **A Pokédex for cars.** Take a photo of a car on the street: ParkLog suggests the brand, model and year with a vision model, scores its rarity, pins where you saw it and unlocks achievements.
 
@@ -27,7 +27,7 @@ I care about clean architecture, testable logic and the details that make softwa
 - ✅ **173 unit tests** on the core logic, run by **GitHub Actions** on every push
 - 📦 Offline-first, `.zip` backups with photos, PT/EN, Android + iOS
 
-[**Case study**](https://caetano14.github.io/parklog/) · [**Demo video**](https://youtu.be/4zAzQh7ZVGI) · [**Android APK**](https://github.com/caetano14/parklog/releases/latest/download/parklog.apk) · [**Code**](https://github.com/caetano14/parklog)
+[**Case study**](https://miguelscaetano.github.io/parklog/) · [**Demo video**](https://youtu.be/4zAzQh7ZVGI) · [**Android APK**](https://github.com/miguelscaetano/parklog/releases/latest/download/parklog.apk) · [**Code**](https://github.com/miguelscaetano/parklog)
 
 ---
 
