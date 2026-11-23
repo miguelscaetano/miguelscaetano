@@ -13,6 +13,7 @@ I care about clean architecture, testable logic and the details that make softwa
 - 🌐 **Web**: websites and web apps, like my [portfolio](https://miguelscaetano.github.io), handmade, bilingual, no frameworks
 - 🖥️ **Desktop**: apps for Windows and macOS
 - 📱 **Mobile**: Android and iOS apps with React Native and Expo, like [ParkLog](https://github.com/miguelscaetano/parklog)
+-  🧩 **Browser extensions**: Manifest V3, like [Custo Real](https://github.com/miguelscaetano/custo-real)
 
 ---
 
@@ -28,6 +29,19 @@ I care about clean architecture, testable logic and the details that make softwa
 - 📦 Offline-first, `.zip` backups with photos, PT/EN, Android + iOS
 
 [**Case study**](https://miguelscaetano.github.io/parklog/) · [**Demo video**](https://youtu.be/4zAzQh7ZVGI) · [**Android APK**](https://github.com/miguelscaetano/parklog/releases/latest/download/parklog.apk) · [**Code**](https://github.com/miguelscaetano/parklog)
+
+---
+
+## 💶 Also: [Custo Real](https://github.com/miguelscaetano/custo-real)
+
+**A Chrome extension for car buyers in Portugal.** On a Standvirtual listing it shows the estimated yearly road tax (IUC) and monthly fuel cost, so you see the real cost of owning the car, not just the price.
+
+- 🧮 IUC rules for 2026 implemented from the law (categories, CO₂ / displacement, diesel surcharge, exemptions), cross-checked against several public sources
+- ⛽ Fuel prices fetched automatically from the DGEG portal, with a manual fallback
+- 🔒 **Zero data collection**, no servers, open source
+- ✅ **257 unit tests**, Manifest V3, published on the Chrome Web Store
+
+[**Chrome Web Store**](https://chromewebstore.google.com/detail/custo-real/fdnkfcnohdgionjojhfmckkckonjcmnm) · [**Code**](https://github.com/miguelscaetano/custo-real)
 
 ---
 
@@ -48,6 +62,7 @@ I care about clean architecture, testable logic and the details that make softwa
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 **Mobile**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
